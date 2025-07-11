@@ -14,6 +14,7 @@ This project uses the [FEMA Disaster Declarations API](https://www.fema.gov/api/
 - Interactive maps with dropdown filters
 - Color-coded choropleth maps with black state outlines
 - Hover info for disaster counts by state
+  
 [Animated FEMA Map](fema_disaster.gif)
 
   
